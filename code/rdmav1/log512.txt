@@ -1,0 +1,6 @@
+Throughput (Mb/s): 4.539142 
+Total number of packets: 709242 
+Total bytes sent: 45391424 
+Simulation length (ms): 10000000 
+Average Delivery delay (us): 13 
+The current CPU utilization is (percent): 4.359193
