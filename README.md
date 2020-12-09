@@ -10,7 +10,7 @@ I would say the reason is mostly because the CPU is different from the paper and
 # Custom RDMA Program Performance Experiment
 ## Design:
 
-In order to make a client server, I stole the code from the following link:
+In order to make a RDMA client server, I used the following code:
 
 https://github.com/pixelrazor/rdma-cs/tree/master/rdma%20v1
 
